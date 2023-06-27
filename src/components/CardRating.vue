@@ -33,8 +33,5 @@
         filled: parseInt(Math.round(this.value)),
       };
     },
-    mounted() {
-      console.log(this.filled, this.notFilled);
-    },
   };
 </script>
